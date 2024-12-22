@@ -1,2 +1,4 @@
-# MAI_Practice
-MAI practice in the first year, topic: "VR: Backend"
+# MAI summer practice 
+
+## Задание:
+Написать микросервис подбора домашних животных на .NET. Поработать с персистентным хранилищем PorstgreSQL. Написать swagger, документировать API и сам проект. Использовать Docker, реализовать функционал сервиса.
